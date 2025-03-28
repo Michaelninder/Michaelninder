@@ -1,6 +1,4 @@
 <h1 align="left">Hi 👋! I am Michaelninder a German web Developer</h1>
-<h3 align="left">Site Examples:</h3>
-<p>Status.XP-Craft.de</p>
 
 ###
 
