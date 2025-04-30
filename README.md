@@ -12,7 +12,7 @@
 
 ###
 
-<div align="center">
+<!--div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+</div-->
 
 ###
 
