@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋! I am Michaelninder a German web Developer</h1>
-
+<hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelninder&locale=de&hide_title=true&layout=compact&card_width=300&langs_count=9&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
   <!--img src="https://streak-stats.demolab.com?user=Michaelninder&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  /-->
