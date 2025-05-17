@@ -54,8 +54,6 @@
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
 </div-->
 
-###
-
 <!--div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Michaelninder&" height="150" alt="trophy graph"  />
 </div-->
