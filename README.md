@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I am Michaelninder a German web Developer</h1>
+<h1 align="left">Hi 👋! I am Michaelninder a German web(backend) Developer</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelninder&locale=de&hide_title=true&layout=compact&card_width=300&langs_count=9&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
