@@ -6,3 +6,84 @@
 - ebay-konto.de
 - CityCraft-NW.de
 - mail-free.de
+
+- michaelninder.de
+- XP-Link.de
+- DogWaterDev.de ([for DogWaterDev](https://github.com/DogWaterDev]))
+- XP-Node.de
+- Dexify.eu
+- XP-Cloud.eu
+- Code-Trainer.de
+- A-Sub.de
+- B-Sub.de
+- HHGkl.de
+- CityCraft-SMP.de
+- QuizHive.de
+- Bank-of-Europe.eu
+- CraftAttack.xyz
+- EuroMC.eu
+- XP-H.de
+- Louixch.de (for Louixch who is not on GitHub)
+- EuropeHost.eu
+- XP-L.de
+- Sub2.eu
+- DomainGen.de
+- WebStruct.eu
+- McServerTools.eu
+- XPHost.eu
+- MCPractice.eu
+- NovaStack.eu
+- FlexiStack.eu
+- PelicanHost.eu
+
+- axiohost.eu
+- axiohost.de
+- city-craft.de
+- XP-Domains.de
+- XP-Domain.de
+- xpsystems.eu
+- xpsys.de
+- xfolio.eu
+- eupractice.eu
+- soulnode.eu
+- eudomains.eu
+- bank-of-germany.de
+- schulchat-rlp.de
+- nerax.eu
+- anlink.eu
+- mchost24.eu
+- 24mc.eu
+- schulkampus-rlp.de
+- bildungslogin-rlp.de
+- XP-Mail.eu
+- pythonhub.eu
+- xmage.eu
+- imagu.eu
+- dcpic.eu [Github](https://github.com/europehost/dsc.pics)
+- swiftshare.eu
+- pyshop.de
+- eushare.eu
+- ptero01.eu
+- epyc01.eu
+- ryzen01.eu
+- xpgames.eu
+- csslib.eu
+- 2note.eu
+- burgermc.de
+- [fternis.de](https://fternis.de/)
+- bildungsbereich-rlp.de
+- XP-AD.de
+- laravel-tutorial.eu
+- gehirn-weg.de
+- staatliches-heinrich-heine-gymnasium-kaiserslautern.de
+- spielefrei.de
+- yourlink.app
+- mcserver.lol
+- dsc.pics [GitHub](https://github.com/europehost/dsc.pics)
+- mtex.dev [GitHub](https://github.com/MTEX-dev)
+- gimy.site [GitHub](https://github.com/MTEX-dev/gimy-site)
+- urlk.app
+- twch.pics
+- fabianternis.dev
+
+*--- Some Domains may be expired at this time* ---
