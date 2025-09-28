@@ -1,7 +1,7 @@
 # List of domains i own
 
-- xp-craft.de
-- darkangel-mc.de
+- xp-craft.de (EXPIRED)
+- darkangel-mc.de (EXPIRED)
 - XP-Host.de
 - ebay-konto.de
 - CityCraft-NW.de
