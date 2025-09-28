@@ -85,5 +85,10 @@
 - urlk.app
 - twch.pics
 - fabianternis.dev
+- fabianternis.de
+- pleasehireme.eu
+- getmy.name
+- getmy.blog
+- fabian-ternis.de
 
 *--- Some Domains may be expired at this time* ---
