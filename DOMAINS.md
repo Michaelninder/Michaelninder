@@ -90,5 +90,8 @@
 - getmy.name
 - getmy.blog
 - fabian-ternis.de
+- mysocials.me
+- getsocials.link
+- linkmy.name
 
 *--- Some Domains may be expired at this time* ---
