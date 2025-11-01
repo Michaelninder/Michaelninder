@@ -9,7 +9,7 @@
 
 - michaelninder.de
 - XP-Link.de
-- DogWaterDev.de ([for DogWaterDev](https://github.com/DogWaterDev]))
+- DogWaterDev.de ([for DogWaterDev](https://github.com/DogWaterDev))
 - XP-Node.de
 - Dexify.eu
 - XP-Cloud.eu
