@@ -1,10 +1,10 @@
 # List of domains I own
 
-- xp-craft.de (EXPIRED)
-- darkangel-mc.de (EXPIRED)
-- XP-Host.de
-- ebay-konto.de
-- CityCraft-NW.de
+- xp-craft.de  (EXPIRED)
+- darkangel-mc.de  (EXPIRED)
+- XP-Host.de  (EXPIRED)
+- ebay-konto.de  (EXPIRED)
+- CityCraft-NW.de  (EXPIRED)
 - mail-free.de
 
 - michaelninder.de
