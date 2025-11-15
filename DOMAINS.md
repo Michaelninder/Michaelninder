@@ -94,5 +94,6 @@
 - getsocials.link
 - linkmy.name
 - woistdasdrachenei.de
+- ivoternis.de ([for IvoTernis](https://github.com/IvoTernis))
   
 *--- Some Domains may be expired at this time* ---
