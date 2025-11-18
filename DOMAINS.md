@@ -93,6 +93,7 @@
 - mysocials.me
 - getsocials.link
 - linkmy.name
+- kaufenhof.de (I manage it for a client)
 - woistdasdrachenei.de
 - ivoternis.de ([for IvoTernis](https://github.com/IvoTernis))
   
