@@ -8,9 +8,9 @@
 - mail-free.de
 
 - michaelninder.de
-- XP-Link.de
-- DogWaterDev.de ([for DogWaterDev](https://github.com/DogWaterDev))
-- XP-Node.de
+- XP-Link.de (EXPIRED)
+- DogWaterDev.de ([for DogWaterDev](https://github.com/DogWaterDev)) (EXPIRED)
+- XP-Node.de (EXPIRED)
 - Dexify.eu
 - XP-Cloud.eu
 - Code-Trainer.de
@@ -96,5 +96,6 @@
 - kaufenhof.de (I manage it for a client)
 - woistdasdrachenei.de
 - ivoternis.de ([for IvoTernis](https://github.com/IvoTernis))
+- heimatverein-floersheim-dalsheim.de
   
 *--- Some Domains may be expired at this time* ---
