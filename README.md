@@ -1,23 +1,30 @@
 # Hey there 👋!
-I am Fabian Ternis, a German web developer specializing in Laravel and PHP.
-You can see my latest projects [HERE](https://pleasehireme.eu/).
 
-Portfolio: [English](http://fabianternis.dev/) | [German](https://fabianternis.de/)
+I'm Fabian Ternis, a German web developer specializing in Laravel and PHP.
+
+You can explore my latest projects on my portfolio:
+*   [English Portfolio](http://fabianternis.dev/)
+*   [German Portfolio](https://fabianternis.de/)
+*   [pleasehireme.eu (English)](http://pleasehireme.eu/)
 
 [Imprint](https://fternis.de/imprint)
 
 ---
 
-### My current main projects:
+### Featured Projects:
+
 *   **dsc.pics**: A free, Discord-based image hoster.
 *   **gimy.site**: A free static website hoster.
 *   **yourlink.app**: A link-shortening service.
-*   ... And many more in development ...
+*   ... and more in development.
 
-### I have also worked on:
-*   **kaufenhof.de**: A German semi-online shop.
-*   **hhgkl.de**: An unofficial school website with an impressive back-end and over 250+ Laravel routes.
+### Past Work Includes:
+
+*   **kaufenhof.de**: A German semi-online-shop.
+*   **hhgkl.de**: An unofficial school website with a robust backend and over 250 Laravel routes.
 
 ---
 
-PHP, Laravel, SQL, Python, JavaScript, TailwindCSS, Ubuntu, ...
+### My Toolkit:
+
+PHP, Laravel, SQL (SQLite, MySQL, MariaDB), Python, JavaScript, Tailwind CSS, Ubuntu, and more.
