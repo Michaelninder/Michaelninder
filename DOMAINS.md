@@ -5,20 +5,20 @@
 - XP-Host.de  (EXPIRED)
 - ebay-konto.de  (EXPIRED)
 - CityCraft-NW.de  (EXPIRED)
-- mail-free.de
+- mail-free.de  (EXPIRED)
 
-- michaelninder.de
+- michaelninder.de  (EXPIRED)
 - XP-Link.de (EXPIRED)
 - DogWaterDev.de ([for DogWaterDev](https://github.com/DogWaterDev)) (EXPIRED)
 - XP-Node.de (EXPIRED)
-- Dexify.eu
-- XP-Cloud.eu
-- Code-Trainer.de
-- A-Sub.de
-- B-Sub.de
-- HHGkl.de
-- CityCraft-SMP.de
-- QuizHive.de
+- Dexify.eu  (EXPIRED)
+- XP-Cloud.eu  (EXPIRED)
+- Code-Trainer.de  (EXPIRED)
+- A-Sub.de  (EXPIRED)
+- B-Sub.de  (EXPIRED)
+- HHGkl.de  (EXPIRED)
+- CityCraft-SMP.de  (EXPIRED)
+- QuizHive.de  (EXPIRED)
 - Bank-of-Europe.eu
 - CraftAttack.xyz
 - EuroMC.eu
