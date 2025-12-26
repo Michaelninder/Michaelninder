@@ -20,7 +20,7 @@
 - CityCraft-SMP.de  (EXPIRED)
 - QuizHive.de  (EXPIRED)
 - Bank-of-Europe.eu  (EXPIRED)
-- CraftAttack.xyz
+- CraftAttack.xyz  (EXPIRED)
 - EuroMC.eu
 - XP-H.de
 - Louixch.de (for Louixch who is not on GitHub)
