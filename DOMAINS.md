@@ -1,4 +1,4 @@
-# List of domains I own
+# List of domains I own and owned in the past
 
 - xp-craft.de  (EXPIRED)
 - darkangel-mc.de  (EXPIRED)
