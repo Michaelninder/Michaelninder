@@ -21,8 +21,8 @@
 - QuizHive.de  (EXPIRED)
 - Bank-of-Europe.eu  (EXPIRED)
 - CraftAttack.xyz  (EXPIRED)
-- EuroMC.eu
-- XP-H.de
+- EuroMC.eu  (EXPIRED)
+- XP-H.de  (EXPIRED)
 - Louixch.de (for Louixch who is not on GitHub)
 - EuropeHost.eu
 - XP-L.de
