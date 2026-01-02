@@ -1,6 +1,6 @@
 # Hey there 👋!
 
-I'm Fabian Ternis, a self-taught German web developer specializing in Laravel and PHP.
+I'm **Fabian Ternis**, a self-taught **German** web developer specializing in **Laravel** and **PHP**.
 
 Explore my work and projects:
 
