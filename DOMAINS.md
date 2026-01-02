@@ -36,11 +36,11 @@
 - FlexiStack.eu
 - PelicanHost.eu
 
-- axiohost.eu
-- axiohost.de
-- city-craft.de
-- XP-Domains.de
-- XP-Domain.de
+- axiohost.eu  (EXPIRED)
+- axiohost.de  (EXPIRED)
+- city-craft.de  (EXPIRED)
+- XP-Domains.de  (EXPIRED)
+- XP-Domain.de  (EXPIRED)
 - xpsystems.eu
 - xpsys.de
 - xfolio.eu
