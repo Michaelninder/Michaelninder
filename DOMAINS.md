@@ -25,12 +25,12 @@
 - XP-H.de  (EXPIRED)
 - Louixch.de (for Louixch who is not on GitHub)
 - EuropeHost.eu
-- XP-L.de
-- Sub2.eu
+- XP-L.de  (EXPIRED)
+- Sub2.eu  (EXPIRED)
 - DomainGen.de
-- WebStruct.eu
-- McServerTools.eu
-- XPHost.eu
+- WebStruct.eu  (EXPIRED)
+- McServerTools.eu  (EXPIRED)
+- XPHost.eu  (EXPIRED)
 - MCPractice.eu
 - NovaStack.eu
 - FlexiStack.eu
