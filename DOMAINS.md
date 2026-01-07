@@ -31,7 +31,7 @@
 - WebStruct.eu  (EXPIRED)
 - McServerTools.eu  (EXPIRED)
 - XPHost.eu  (EXPIRED)
-- MCPractice.eu
+- MCPractice.eu  (EXPIRED)
 - NovaStack.eu
 - FlexiStack.eu
 - PelicanHost.eu
@@ -98,5 +98,7 @@
 - ivoternis.de ([for IvoTernis](https://github.com/IvoTernis))
 - heimatverein-floersheim-dalsheim.de
 - 192-168-0-1.de *`//127-0-0-1.de was already taken`*
+- sandbox-api.de
+- api-sandbox.de [GitHub](https://github.com/api-sandbox-DE)
   
 *--- Some Domains may be expired at this time* ---
