@@ -100,5 +100,7 @@
 - 192-168-0-1.de *`//127-0-0-1.de was already taken`*
 - sandbox-api.de
 - api-sandbox.de [GitHub](https://github.com/api-sandbox-DE)
+- hhg-kl.eu
+- mail-free.eu
   
 *--- Some Domains may be expired at this time* ---
