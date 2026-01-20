@@ -32,9 +32,9 @@
 - McServerTools.eu  (EXPIRED)
 - XPHost.eu  (EXPIRED)
 - MCPractice.eu  (EXPIRED)
-- NovaStack.eu
-- FlexiStack.eu
-- PelicanHost.eu
+- NovaStack.eu  (EXPIRED)
+- FlexiStack.eu  (EXPIRED)
+- PelicanHost.eu  (EXPIRED)
 
 - axiohost.eu  (EXPIRED)
 - axiohost.de  (EXPIRED)
@@ -43,8 +43,8 @@
 - XP-Domain.de  (EXPIRED)
 - xpsystems.eu
 - xpsys.de
-- xfolio.eu
-- eupractice.eu
+- xfolio.eu  (EXPIRED)
+- eupractice.eu  (EXPIRED)
 - soulnode.eu
 - eudomains.eu
 - bank-of-germany.de
