@@ -102,5 +102,6 @@
 - api-sandbox.de [GitHub](https://github.com/api-sandbox-DE)
 - hhg-kl.eu
 - mail-free.eu
+- ternis.eu
   
 *--- Some Domains may be expired at this time* ---
