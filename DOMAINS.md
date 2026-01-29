@@ -45,7 +45,7 @@
 - xpsys.de
 - xfolio.eu  (EXPIRED)
 - eupractice.eu  (EXPIRED)
-- soulnode.eu
+- soulnode.eu  (EXPIRED)
 - eudomains.eu
 - bank-of-germany.de
 - schulchat-rlp.de
