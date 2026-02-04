@@ -35,4 +35,4 @@ PHP, Laravel, SQL (SQLite, MySQL, MariaDB), Python, JavaScript, Tailwind CSS, Ub
 ### My Organizations:
 
 *   **[@Europehost](https://github.com/Europehost/)**: Providing free services for everyone.
-*   **[@MTEX-dev](https://github.com/MTEX-dev/)**: Specializing in free tools and sites for developers.
+*   **[@MTEXdotDev](https://github.com/MTEXdotDev/)**: Specializing in free tools and sites for developers.
