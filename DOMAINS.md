@@ -9,7 +9,7 @@
 
 - michaelninder.de  (EXPIRED)
 - XP-Link.de (EXPIRED)
-- DogWaterDev.de ([for DogWaterDev](https://github.com/DogWaterDev)) (EXPIRED)
+- DogWaterDev.de ([for DogWaterDev](https://github.com/DogWaterDev)) (re-registered)
 - XP-Node.de (EXPIRED)
 - Dexify.eu  (EXPIRED)
 - XP-Cloud.eu  (EXPIRED)
