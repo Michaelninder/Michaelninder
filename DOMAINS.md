@@ -46,7 +46,7 @@
 - xfolio.eu  (EXPIRED)
 - eupractice.eu  (EXPIRED)
 - soulnode.eu  (EXPIRED)
-- eudomains.eu
+- eudomains.eu [Github](https://github.com/eudomains)
 - bank-of-germany.de
 - schulchat-rlp.de
 - nerax.eu
@@ -101,8 +101,9 @@
 - sandbox-api.de
 - api-sandbox.de [GitHub](https://github.com/api-sandbox-DE)
 - hhg-kl.eu
-- mail-free.eu
-- ternis.eu
-- xpsystems.de
+- mail-free.eu [GitHub](https://github.com/mail-free)
+- ternis.eu [Github](https://github.com/ternis-eu)
+- xpsystems.de [Github](https://github.com/xpsystems)
+- eu-data.org [Github](https://github.com/eu-data-org)
   
 *--- Some Domains may be expired at this time* ---
