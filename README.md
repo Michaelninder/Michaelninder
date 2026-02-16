@@ -22,7 +22,7 @@ Explore my work and projects:
 ### Select Past Work:
 
 *   **kaufenhof.de**: A German semi-online-shop.
-*   **hhgkl.de**: An unofficial school website featuring a robust backend with over 250 Laravel routes.
+*   **hhg-kl.eu**: An unofficial school website featuring a robust backend with over 250 Laravel routes.
 
 ---
 
@@ -36,3 +36,4 @@ PHP, Laravel, SQL (SQLite, MySQL, MariaDB), Python, JavaScript, Tailwind CSS, Ub
 
 *   **[@Europehost](https://github.com/Europehost/)**: Providing free services for everyone.
 *   **[@MTEXdotDev](https://github.com/MTEXdotDev/)**: Specializing in free tools and sites for developers.
+*   **[@EU-data-org](https://github.com/EU-data-org/)**: European Digital Sovereignty 
