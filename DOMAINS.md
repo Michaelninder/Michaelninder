@@ -105,5 +105,7 @@
 - ternis.eu [Github](https://github.com/ternis-eu)
 - xpsystems.de [Github](https://github.com/xpsystems)
 - eu-data.org [Github](https://github.com/eu-data-org)
+- eu-search.org [Github](https://github.com/eu-search-org)
+- Web-Search.org [Github](https://github.com/web-searchorg)
   
 *--- Some Domains may be expired at this time* ---
