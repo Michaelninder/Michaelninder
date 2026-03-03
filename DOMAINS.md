@@ -48,20 +48,20 @@
 - soulnode.eu  (EXPIRED)
 - eudomains.eu [Github](https://github.com/eudomains)
 - bank-of-germany.de
-- schulchat-rlp.de
-- nerax.eu
-- anlink.eu
-- mchost24.eu
-- 24mc.eu
-- schulkampus-rlp.de
-- bildungslogin-rlp.de
-- XP-Mail.eu
-- pythonhub.eu
-- xmage.eu
-- imagu.eu
+- schulchat-rlp.de  (EXPIRED)
+- nerax.eu  (EXPIRED)
+- anlink.eu  (EXPIRED)
+- mchost24.eu  (EXPIRED)
+- 24mc.eu  (EXPIRED)
+- schulkampus-rlp.de  (EXPIRED)
+- bildungslogin-rlp.de  (EXPIRED)
+- XP-Mail.eu  (EXPIRED)
+- pythonhub.eu  (EXPIRED)
+- xmage.eu  (EXPIRED)
+- imagu.eu  (EXPIRED)
 - dcpic.eu [Github](https://github.com/europehost/dsc.pics)
-- swiftshare.eu
-- pyshop.de
+- swiftshare.eu  (EXPIRED)
+- pyshop.de  (EXPIRED)
 - eushare.eu
 - ptero01.eu
 - epyc01.eu
@@ -107,5 +107,8 @@
 - eu-data.org [Github](https://github.com/eu-data-org)
 - eu-search.org [Github](https://github.com/eu-search-org)
 - Web-Search.org [Github](https://github.com/web-searchorg)
+- [PRIVATE].de
+- [PRIVATE].de
+- pleasehireme.de
   
 *--- Some Domains may be expired at this time* ---
