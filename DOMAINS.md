@@ -110,5 +110,8 @@
 - [PRIVATE].de
 - [PRIVATE].de
 - pleasehireme.de
+- [PRIVATE].de
+- [PRIVATE].de
+- [PRIVATE].de
   
 *--- Some Domains may be expired at this time* ---
