@@ -62,14 +62,14 @@
 - dcpic.eu [Github](https://github.com/europehost/dsc.pics)
 - swiftshare.eu  (EXPIRED)
 - pyshop.de  (EXPIRED)
-- eushare.eu
-- ptero01.eu
-- epyc01.eu
-- ryzen01.eu
-- xpgames.eu
-- csslib.eu
-- 2note.eu
-- burgermc.de
+- eushare.eu  (EXPIRED)
+- ptero01.eu  (EXPIRED)
+- epyc01.eu  (EXPIRED)
+- ryzen01.eu  (EXPIRED)
+- xpgames.eu  (EXPIRED)
+- csslib.eu  (EXPIRED)
+- 2note.eu  (EXPIRED)
+- burgermc.de  (EXPIRED)
 - [fternis.de](https://fternis.de/)
 - bildungsbereich-rlp.de
 - XP-AD.de
