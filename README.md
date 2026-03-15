@@ -14,9 +14,11 @@ Explore my work and projects:
 
 ### Featured Projects:
 
-*   **dsc.pics**: A free, Discord-based image hoster.
+<!--*   **dsc.pics**: A free, Discord-based image hoster.
 *   **gimy.site**: A free static website hoster.
-*   **yourlink.app**: A link-shortening service.
+*   **yourlink.app**: A link-shortening service..-->
+*   **getmy.name**: A free portfolio-API for developers.
+*   **mtex.dev**: Free Services and Aplications for Developers.
 *   ... and more actively in development.
 
 ### Select Past Work:
