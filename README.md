@@ -23,7 +23,6 @@ Explore my work and projects:
 
 ### Select Past Work:
 
-*   **kaufenhof.de**: A German semi-online-shop.
 *   **hhg-kl.eu**: An unofficial school website featuring a robust backend with over 250 Laravel routes.
 
 ---
