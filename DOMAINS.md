@@ -114,5 +114,7 @@
 - [PRIVATE].de
 - [PRIVATE].de
 - httpclient.de
+- [PRIVATE].de
+- dnbx.de
   
 *--- Some Domains may be expired at this time* ---
