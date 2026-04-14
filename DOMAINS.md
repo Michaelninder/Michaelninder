@@ -116,5 +116,8 @@
 - httpclient.de
 - [PRIVATE].de
 - dnbx.de
+- Wonnegauer-Designwerkstatt.de ("Client")
+- ternis-edv.de
+
   
 *--- Some Domains may be expired at this time* ---
