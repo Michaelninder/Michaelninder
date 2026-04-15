@@ -71,7 +71,7 @@
 - 2note.eu  (EXPIRED)
 - burgermc.de  (EXPIRED)
 - [fternis.de](https://fternis.de/)
-- bildungsbereich-rlp.de
+- bildungsbereich-rlp.de  (EXPIRED)
 - XP-AD.de
 - laravel-tutorial.eu
 - gehirn-weg.de
