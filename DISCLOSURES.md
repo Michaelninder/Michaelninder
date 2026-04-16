@@ -6,7 +6,7 @@ This file serves as a professional log of security vulnerabilities, misconfigura
 
 | Date | Target Organization | Issue Type | Status | Note |
 | :--- | :--- | :--- | :--- | :--- |
-| 2026-04-15 | Google (DeepMind/DevRel) | Exposed Gemini API Key | Disclosed | Key leaked during a public technical presentation; confirmed active via minimal testing. |
+| 2026-04-15 | Google DeepMind (Individual) | Exposed Gemini API Key | Disclosed | Key linked to a private account of a DeepMind lead; leaked during a public technical presentation and confirmed active via minimal testing. |
 
 ---
 ### Disclosure Policy
