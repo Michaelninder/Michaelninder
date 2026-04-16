@@ -14,6 +14,6 @@ I follow standard responsible disclosure practices:
 1. Identify the vulnerability/leak.
 2. Notify the affected party immediately via official channels.
 3. Provide details to help remediation.
-4. Document the occurrence here only after the organization has been notified.
+4. Document the occurrence here only after the organization or individual has been notified.
 
 *Maintained by Fabian Ternis*
