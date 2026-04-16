@@ -4,9 +4,9 @@ This file serves as a professional log of security vulnerabilities, misconfigura
 
 ## Disclosure Log
 
-| Date | Target Organization | Issue Type | Status | Note |
-| :--- | :--- | :--- | :--- | :--- |
-| 2026-04-15 | Google DeepMind (Individual) | Exposed Gemini API Key | Disclosed | Key linked to a private account of a DeepMind lead; leaked during a public technical presentation and confirmed active via minimal testing. |
+| Date | Target Organization | Issue Type | Status | Outcome | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-04-15 | Google DeepMind (Individual) | Exposed Gemini API Key | **Resolved** | Key Revoked | Key linked to a private account of a DeepMind lead; leaked during public presentation. Confirmed revoked on 2026-04-16. |
 
 ---
 ### Disclosure Policy
