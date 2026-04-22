@@ -48,7 +48,7 @@
 - soulnode.eu  (EXPIRED)
 - eudomains.eu [Github](https://github.com/eudomains)
 - bank-of-germany.de
-- schulchat-rlp.de  (EXPIRED)
+- schulchat-rlp.de  (re-registered)
 - nerax.eu  (EXPIRED)
 - anlink.eu  (EXPIRED)
 - mchost24.eu  (EXPIRED)
