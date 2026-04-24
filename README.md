@@ -25,8 +25,9 @@ Explore my work and projects:
 
 *   **[PHP-Zero](https://gh.mtex.dev/php-zero)** — A lightweight PHP micro-framework. Powers projects like [rnd.mtex.dev](http://gh.mtex.dev/rnd.mtex.dev) (Free Random-Data-API).
 *   **[DNBX.de](https://dnbx.de)** — My domain brokerage & portfolio platform.
-*   **getmy.name** — A free portfolio-API for developers.
+*   **[getmy.name](https://getmy.name)** — A free portfolio-API for developers.
 *   **[mtex.dev](https://mtex.dev)** — Free services and applications for developers.
+*   **[eu-data.org](https://eu-data.org)** — A Website promoting European Digital Sovereignty
 *   ... and more actively in development.
 
 ### 🗂 Select Past Work:
