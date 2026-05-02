@@ -47,3 +47,4 @@ PHP, Laravel, SQL (SQLite, MySQL, MariaDB), Python, JavaScript, Tailwind CSS, Ub
 *   **[@Europehost](https://github.com/Europehost/)** — Providing free services for everyone.
 *   **[@MTEXdotDev](https://github.com/MTEXdotDev/)** — Specializing in free tools and sites for developers.
 *   **[@EU-data-org](https://github.com/EU-data-org/)** — European Digital Sovereignty.
+*   **[@Ternis-edv](https://github.com/Ternis-edv/)** — Free, Digital Services.
