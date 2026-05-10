@@ -118,6 +118,16 @@
 - dnbx.de
 - Wonnegauer-Designwerkstatt.de ("Client")
 - ternis-edv.de
+- [PRIVATE].eu
+- schulchat-rlp.de
+- bildungslogin-rlp.de
+- drophtml.de
+- ternismail.de
+- [GATEKEEPED].de
+- wbbx.de
+- [GATEKEEPED].de
+- ternis.link
+
 
   
 *--- Some Domains may be expired at this time* ---
