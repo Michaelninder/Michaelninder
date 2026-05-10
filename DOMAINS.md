@@ -48,30 +48,30 @@
 - soulnode.eu  (EXPIRED)
 - eudomains.eu [Github](https://github.com/eudomains)
 - bank-of-germany.de
-- schulchat-rlp.de
-- nerax.eu
-- anlink.eu
-- mchost24.eu
-- 24mc.eu
-- schulkampus-rlp.de
-- bildungslogin-rlp.de
-- XP-Mail.eu
-- pythonhub.eu
-- xmage.eu
-- imagu.eu
+- schulchat-rlp.de  (re-registered)
+- nerax.eu  (EXPIRED)
+- anlink.eu  (EXPIRED)
+- mchost24.eu  (EXPIRED)
+- 24mc.eu  (EXPIRED)
+- schulkampus-rlp.de  (EXPIRED)
+- bildungslogin-rlp.de  (EXPIRED)
+- XP-Mail.eu  (EXPIRED)
+- pythonhub.eu  (EXPIRED)
+- xmage.eu  (EXPIRED)
+- imagu.eu  (EXPIRED)
 - dcpic.eu [Github](https://github.com/europehost/dsc.pics)
-- swiftshare.eu
-- pyshop.de
-- eushare.eu
-- ptero01.eu
-- epyc01.eu
-- ryzen01.eu
-- xpgames.eu
-- csslib.eu
-- 2note.eu
-- burgermc.de
+- swiftshare.eu  (EXPIRED)
+- pyshop.de  (EXPIRED)
+- eushare.eu  (EXPIRED)
+- ptero01.eu  (EXPIRED)
+- epyc01.eu  (EXPIRED)
+- ryzen01.eu  (EXPIRED)
+- xpgames.eu  (EXPIRED)
+- csslib.eu  (EXPIRED)
+- 2note.eu  (EXPIRED)
+- burgermc.de  (EXPIRED)
 - [fternis.de](https://fternis.de/)
-- bildungsbereich-rlp.de
+- bildungsbereich-rlp.de  (EXPIRED)
 - XP-AD.de
 - laravel-tutorial.eu
 - gehirn-weg.de
@@ -105,5 +105,29 @@
 - ternis.eu [Github](https://github.com/ternis-eu)
 - xpsystems.de [Github](https://github.com/xpsystems)
 - eu-data.org [Github](https://github.com/eu-data-org)
+- eu-search.org [Github](https://github.com/eu-search-org)
+- Web-Search.org [Github](https://github.com/web-searchorg)
+- [PRIVATE].de
+- [PRIVATE].de
+- pleasehireme.de
+- [PRIVATE].de
+- [PRIVATE].de
+- [PRIVATE].de
+- httpclient.de
+- [PRIVATE].de
+- dnbx.de
+- Wonnegauer-Designwerkstatt.de ("Client")
+- ternis-edv.de
+- [PRIVATE].eu
+- schulchat-rlp.de
+- bildungslogin-rlp.de
+- drophtml.de
+- ternismail.de
+- [GATEKEEPED].de
+- wbbx.de
+- [GATEKEEPED].de
+- ternis.link
+
+
   
 *--- Some Domains may be expired at this time* ---
