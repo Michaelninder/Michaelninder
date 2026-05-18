@@ -127,7 +127,7 @@
 - wbbx.de
 - [GATEKEEPED].de
 - ternis.link
-
+- KidiNet.de
 
   
 *--- Some Domains may be expired at this time* ---
